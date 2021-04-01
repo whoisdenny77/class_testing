@@ -5,4 +5,5 @@ Spyder Editor
 This is a temporary script file.
 """
 
-print('Hello Bitch')
+x = 30
+print('aeropagitica')
